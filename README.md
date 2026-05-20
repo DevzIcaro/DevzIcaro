@@ -27,6 +27,8 @@
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   </div>
+    <img align="center" alt="Astro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro.svg">
+  </div>
 
   <br />
 
