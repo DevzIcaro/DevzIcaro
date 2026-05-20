@@ -6,10 +6,11 @@
   </p>
 
   <!-- Estatísticas do GitHub -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevzIcaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevzIcaro&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
+### 📊 Minhas Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevzIcaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevzIcaro&layout=compact&langs_count=6&theme=tokyonight)
 
   <br />
 
