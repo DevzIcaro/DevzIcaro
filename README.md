@@ -34,11 +34,11 @@
   <!-- Redes Sociais -->
   <h3>📫 Vamos nos conectar?</h3>
   <div>
-    <a href="mailto:contatodevicaro333@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
     <a href="https://www.linkedin.com/in/icarocarneiro/">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:contatodevicaro333@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://devzicaro.github.io/portfolio-icaro/">
       <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank">
